@@ -23,7 +23,7 @@
 
   <p id="hiddenText" style="display: none;">
     Questo sito ti mostra un link molto speciale! <br>
-    non ti dico la password però :p<br>
+    non ti dico la password però<br>
     <br>
     https://dax-0.itch.io/velocity <br>
     

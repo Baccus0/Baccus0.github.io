@@ -25,7 +25,7 @@
     Questo sito ti mostra un link molto speciale! <br>
     non ti dico la password però<br>
     <br>
-    https://dax-0.itch.io/velocity <br>
+    https://dacs-0.itch.io/velocity <br>
     
     Grazie e non scordarti paypal <br>
 

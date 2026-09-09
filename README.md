@@ -741,25 +741,25 @@
         <ul>
 
             <li>
-                <a href="https://www.Brainf__k.org/Brainf__k.html"
+                <a href="https://www.Brainfuck.org/Brainfuck.html"
                    target="_blank">
-                    Brainf__k.org — Yet Another Brainf__k Reference
+                    Brainfuck.org — Yet Another Braiuck Reference
                 </a>
                 — riferimento tecnico sul funzionamento del linguaggio.
             </li>
 
             <li>
-                <a href="https://it.wikipedia.org/wiki/Brainf__k"
+                <a href="https://it.wikipedia.org/wiki/Brainfuck"
                    target="_blank">
-                    Wikipedia Italia — Brainf__k
+                    Wikipedia Italia — Brainfuck
                 </a>
                 — panoramica storica e tecnica in italiano.
             </li>
 
             <li>
-                <a href="https://esolangs.org/wiki/Brainf__k"
+                <a href="https://esolangs.org/wiki/Brainfuck"
                    target="_blank">
-                    Esolang Wiki — Brainf__k
+                    Esolang Wiki — Brainfuck
                 </a>
                 — storia, istruzioni ed esempi del linguaggio.
             </li>
@@ -769,13 +769,13 @@
                    target="_blank">
                     Urban Müller — Tamedia TX 2017 Transcript
                 </a>
-                — testimonianza di Müller sulla creazione di Brainf__k.
+                — testimonianza di Müller sulla creazione di Brainfuck.
             </li>
 
             <li>
-                <a href="https://en.wikipedia.org/wiki/Brainf__k"
+                <a href="https://en.wikipedia.org/wiki/Brainfuck"
                    target="_blank">
-                    Wikipedia — Brainf__k
+                    Wikipedia — Brainfuck
                 </a>
                 — panoramica generale sulla storia e sul funzionamento.
             </li>
@@ -790,8 +790,7 @@
 <footer>
 
     <p>
-        Creato per dimostrare l'eleganza meravigliosamente terribile
-        di Brainf__k.
+        Ciao
     </p>
 
     <p style="margin-top: 8px;">
@@ -802,9 +801,6 @@
 
 
 <script>
-
-    // Piccola dimostrazione interattiva del funzionamento
-    // della memoria di Brainf__k.
 
     let memory = [0, 0, 0, 0, 0];
     let pointer = 0;

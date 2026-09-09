@@ -743,7 +743,7 @@
             <li>
                 <a href="https://www.Brainfuck.org/Brainfuck.html"
                    target="_blank">
-                    Brainfuck.org — Yet Another Braiuck Reference
+                    Brainfuck.org — Yet Another Brainfuck Reference
                 </a>
                 — riferimento tecnico sul funzionamento del linguaggio.
             </li>

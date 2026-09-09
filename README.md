@@ -199,7 +199,7 @@
 
     .command-table th,
     .command-table td {
-        border: 1px solid #30363d;
+        border: 1px solid #595959;
         padding: 13px;
         text-align: left;
     }
@@ -671,7 +671,7 @@
 
             <p>
                 I programmatori di Brainf__k hanno realizzato anche
-                dei <strong>quine</strong>: programmi capaci di stampare
+                dei quine: programmi capaci di stampare
                 il proprio codice sorgente.
             </p>
 
@@ -741,43 +741,43 @@
         <ul>
 
             <li>
-                <a href="https://www.Brainfuck.org/Brainfuck.html"
+                <a href="https://www.brainfuck.org/brainfuck.html"
                    target="_blank">
-                    Brainfuck.org — Yet Another Brainfuck Reference
+                    Brainfuck.org - Yet Another Brainfuck Reference
                 </a>
-                — riferimento tecnico sul funzionamento del linguaggio.
+                - riferimento tecnico sul funzionamento del linguaggio.
             </li>
 
             <li>
                 <a href="https://it.wikipedia.org/wiki/Brainfuck"
                    target="_blank">
-                    Wikipedia Italia — Brainfuck
+                    Wikipedia Italia - Brainfuck
                 </a>
-                — panoramica storica e tecnica in italiano.
+                - panoramica storica e tecnica in italiano.
             </li>
 
             <li>
                 <a href="https://esolangs.org/wiki/Brainfuck"
                    target="_blank">
-                    Esolang Wiki — Brainfuck
+                    Esolang Wiki - Brainfuck
                 </a>
-                — storia, istruzioni ed esempi del linguaggio.
+                - storia, istruzioni ed esempi del linguaggio.
             </li>
 
             <li>
                 <a href="https://esolangs.org/wiki/Urban_M%C3%BCller/Tamedia_TX_2017_Transcript"
                    target="_blank">
-                    Urban Müller — Tamedia TX 2017 Transcript
+                    Urban Müller - Tamedia TX 2017 Transcript
                 </a>
-                — testimonianza di Müller sulla creazione di Brainfuck.
+                - testimonianza di Müller sulla creazione di Brainfuck.
             </li>
 
             <li>
                 <a href="https://en.wikipedia.org/wiki/Brainfuck"
                    target="_blank">
-                    Wikipedia — Brainfuck
+                    Wikipedia - Brainfuck
                 </a>
-                — panoramica generale sulla storia e sul funzionamento.
+                - panoramica generale sulla storia e sul funzionamento.
             </li>
 
         </ul>

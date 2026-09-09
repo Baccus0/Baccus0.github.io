@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="it">
 <head>
     <meta charset="UTF-8">
@@ -619,12 +618,12 @@
             </p>
 
             <pre><code>++++++++++[>+++++++>++++++++++>+++>+<<<<-]
-```
+
 
 >++.>+.+++++++..+++.>++.<<+++++++++++++++.>.
 +++.------.--------.>+.>.</code></pre>
 
-```
+
             <p>
                 Questo esempio utilizza cicli, spostamenti del puntatore,
                 operazioni aritmetiche e output, utilizzando solamente
@@ -647,7 +646,7 @@
             </p>
 
             <pre><code>src/
-```
+
 
 ├── atoi.b
 ├── div10.b
@@ -656,7 +655,7 @@
 ├── prime.b
 └── varia.b</code></pre>
 
-```
+
             <p>
                 Questi programmi facevano parte della distribuzione
                 originale di Urban Müller.

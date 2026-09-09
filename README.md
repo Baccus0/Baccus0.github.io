@@ -199,7 +199,7 @@
 
     .command-table th,
     .command-table td {
-        border: 1px solid #595959;
+        border: 1px solid #30363d;
         padding: 13px;
         text-align: left;
     }

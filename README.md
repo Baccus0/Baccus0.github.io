@@ -281,9 +281,9 @@
 
         <ul>
             <li>
-                <a href="https://www.Brainfuck.org/Brainfuck.html"
+                <a href="https://www.brainfuck.org/brainfuck.html"
                    target="_blank">
-                    Brainf__k.org
+                    Brainfuck.org
                 </a>
             </li>
 
@@ -306,7 +306,7 @@
 
 
     <footer>
-        Progetto scolastico su Brainf__k
+        Ciao
     </footer>
 
 </body>

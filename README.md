@@ -28,7 +28,7 @@
 
         header p {
             font-size: 20px;
-            color: #d1d5db;
+            color: #999999;
         }
 
         nav {

@@ -11,7 +11,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             background-color: #111827;
-            color: white;
+            color: #c1c1c1;
         }
 
         header {
@@ -28,7 +28,7 @@
 
         header p {
             font-size: 20px;
-            color: #999999;
+            color: #d1d5db;
         }
 
         nav {
